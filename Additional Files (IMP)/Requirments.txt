@@ -1,0 +1,9 @@
+For Python File -
+	python 3.11.8
+	pip 24.0
+	cvzone 1.6.1 
+	mediapipe 0.10.14
+
+For Unity Project -
+	Unity Editor Version 2021.3.32f1
+	XR Plugin Installed
